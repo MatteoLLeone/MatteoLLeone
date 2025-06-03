@@ -1,15 +1,9 @@
- Matteo Leone  -Scuola: ITI Ettore Majorana- Appassionato di calcio
+ Matteo Leone  - ITI Ettore Majorana- Futuro programmatore
 -
 Frequento il terzo anno  dell' indirizzo di informatica dell'itis Majorana di Grugliasco,prima di fare questa scuola ho fatto un anno al liceo Curie Vittorini e poi ho cambiato scuola e sono venuto al Majorana per imparare a programmare e per poi cercare di  entrare nel mondo lavorativo.
 
 
 Ho fatto basket per qualche anno,karate e poi un po' di palestra.
-
-## Hobby
-* Giocare a calcio
-* Giocare ai videogiochi
-* Ascoltare la musica
-* Uscire con gli amici
 
 ## Competenze informatiche
 * Conoscenza di sistemi operativi
@@ -28,9 +22,17 @@ In genere nei lavori di gruppo cerco sempre di collaboarare con le persone all'i
 ## Linguaggi utilizzati
 * C#
 * Javascript
+  
 ## Pagine web
 * HTML
 * CSS
+  
+ ## Hobby
+* Giocare a calcio
+* Giocare ai videogiochi
+* Ascoltare la musica
+* Uscire con gli amici
+
   
 
 
